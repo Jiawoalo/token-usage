@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-16 19:25",
-  "muse": { "label": "Muse", "remaining_pct": 81, "reset": "11/18 00:08" },
-  "claude": { "label": "Claude", "remaining_pct": 8, "reset": "11/19 18:00" }
+  "updated_at": "2026-11-16 21:05",
+  "muse": { "label": "Muse", "remaining_pct": 80, "reset": "11/18 00:08" },
+  "claude": { "label": "Claude", "remaining_pct": 50, "reset": "11/19 18:00" }
 }
