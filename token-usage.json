@@ -1,1 +1,18 @@
-{"updated_at": "2026-11-19 17:37", "muse": {"label": "Muse", "remaining_pct": 93, "reset": "11/25 00:58"}, "claude": {"label": "Claude", "remaining_pct": 0, "reset": "11/19 17:59"}, "chatgpt": {"label": "ChatGPT", "remaining_pct": 96, "reset": "11/25 18:36"}}
+{
+  "updated_at": "2026-11-19 23:11",
+  "muse": {
+    "label": "Muse",
+    "remaining_pct": 92,
+    "reset": "11/25 00:58"
+  },
+  "claude": {
+    "label": "Claude",
+    "remaining_pct": 0,
+    "reset": "11/19 17:59"
+  },
+  "chatgpt": {
+    "label": "ChatGPT",
+    "remaining_pct": 96,
+    "reset": "11/25 18:10"
+  }
+}
