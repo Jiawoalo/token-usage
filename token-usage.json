@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-25 08:01",
+  "updated_at": "2026-11-25 08:14",
   "muse": {
     "label": "Muse",
     "remaining_pct": 100,
@@ -13,6 +13,6 @@
   "chatgpt": {
     "label": "ChatGPT",
     "remaining_pct": 39,
-    "reset": "11/25 18:47"
+    "reset": "11/25 18:46"
   }
 }
