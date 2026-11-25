@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-11-25 08:14",
+  "updated_at": "2026-11-25 23:34",
   "muse": {
     "label": "Muse",
-    "remaining_pct": 100,
+    "remaining_pct": 98,
     "reset": "12/2 00:59"
   },
   "claude": {
     "label": "Claude",
-    "remaining_pct": 79,
+    "remaining_pct": 72,
     "reset": "11/26 18:00"
   },
   "chatgpt": {
     "label": "ChatGPT",
-    "remaining_pct": 39,
-    "reset": "11/25 18:46"
+    "remaining_pct": 86,
+    "reset": "12/2 20:31"
   }
 }
